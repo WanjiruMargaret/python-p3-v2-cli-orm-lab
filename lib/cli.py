@@ -1,5 +1,4 @@
-
-from helpers import (
+from lib.helpers import (
     exit_program,
     list_departments,
     find_department_by_name,
@@ -13,7 +12,7 @@ from helpers import (
     create_employee,
     update_employee,
     delete_employee,
-    list_department_employees
+    list_department_employees,
 )
 
 
